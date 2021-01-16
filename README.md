@@ -8,7 +8,7 @@
 <br/>❤️  Gosto das linguagens C/C++, C#,  Python e Javascript
 <br/>❤️  Amo prototipage eletrônica com ênfase em microcontroladores
 <br/>😍 Entusiasta com Arduino,  ESP8266 NodeMCU, ESP32, Raspberry Pi
-<br/>📈  Interesses em Data Science, machine learning
+<br/>📈  Interesses em Data Science e machine learning
 <br/>🤖 Objetivos robótica e automação
 <br/>🌟 Viva o open source
 <br/>📚 Sempre em busca de conhecimento
