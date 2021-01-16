@@ -16,5 +16,6 @@
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Silas%20Almeida-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-almeida-293491139/)](https://www.linkedin.com/in/silas-almeida-293491139/) 
+[![Gmail Badge](https://img.shields.io/badge/-silassanttoss27@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silassanttoss27@gmail.com)](mailto:silassanttoss27@gmail.com)
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
