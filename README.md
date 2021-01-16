@@ -1,16 +1,19 @@
-### Hi there 👋
+🚀🚀🚀🚀🚀🚀🚀🚀#Silas Almeida Santos 🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 
-<!--
-**silas1900/silas1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Quem sou eu? 🕵️‍♂️
 
-Here are some ideas to get you started:
+⚡  Estudante de engenharia elétrica
+🔋   Técnico em  Eletrônica
+⚡  Técnico em eletrotécnica
+❤️  Gosto das linguagens C/C++, C#,  Python e Javascript
+❤️  Amo prototipage eletrônica com ênfase em microcontroladores
+😍 Entusiasta com Arduino,  ESP8266 NodeMCU, ESP32, Raspberry Pi
+📈  Interesses em Data Science, machine learning
+🤖 Objetivos robótica e automação
+🌟 Viva o open source
+📚 Sempre em busca de conhecimento
+😎 Se precisar de ajuda é só chamar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Silas%20Almeida-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silas-almeida-293491139/)](https://www.linkedin.com/in/silas-almeida-293491139/) 
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
