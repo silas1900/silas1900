@@ -1,6 +1,6 @@
-🚀🚀🚀🚀🚀🚀🚀🚀<h1>Silas Almeida Santos<h1> 🚀🚀🚀🚀🚀🚀🚀🚀🚀 
+🚀🚀🚀🚀🚀🚀🚀🚀<h1>Silas Almeida Santos</h1> 🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 
-<h2>Who am I?<h2> 🕵️‍♂️
+<h2>Who am I?</h2> 🕵️‍♂️
 
 <br/>⚡  Electrical engineering student
 <br/>🔋   Electronics Technician
